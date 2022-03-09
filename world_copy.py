@@ -9,6 +9,5 @@ Original file is located at
 
 something= input("please enter something: ")
 number=int(input("please enter a number: "))
-i=0
 for i in range (number):
     print(something)
